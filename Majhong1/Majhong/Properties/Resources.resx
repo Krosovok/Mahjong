@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="back" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\face-down-64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bamboo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\bamboo\bamboo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bamboo2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\bamboo\bamboo2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bamboo3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\bamboo\bamboo3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bamboo4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\bamboo\bamboo4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bamboo5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\bamboo\bamboo5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bamboo6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\bamboo\bamboo6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bamboo7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\bamboo\bamboo7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bamboo8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\bamboo\bamboo8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bamboo9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\bamboo\bamboo9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dragonB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\dragons\dragon-haku.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dragonC" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\dragons\dragon-chun.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dragonF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\dragons\dragon-green.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_bamboo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_bamboo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_bamboo2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_bamboo2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_bamboo3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_bamboo3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_bamboo4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_bamboo4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_bamboo5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_bamboo5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_bamboo6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_bamboo6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_bamboo7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_bamboo7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_bamboo8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_bamboo8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_bamboo9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_bamboo9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_down_40x43px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face-down-40x43px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_dragonB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_dragon-haku.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_dragonC" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_dragon-chun.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_dragonF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_dragon-green.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_man1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_man1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_man2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_man2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_man3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_man3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_man4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_man4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_man5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_man5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_man6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_man6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_man7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_man7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_man8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_man8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_man9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_man9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_pin1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_pin1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_pin2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_pin2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_pin3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_pin3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_pin4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_pin4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_pin5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_pin5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_pin6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_pin6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_pin7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_pin7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_pin8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_pin8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_pin9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_pin9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_windE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_wind-east.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_windN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_wind-north.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_windS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_wind-south.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="face_windW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\Faces\face_wind-west.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\left-side-top shadow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="left_top" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\left-side-top.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m1000" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\m1000.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="man1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\man\man1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="man2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\man\man2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="man3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\man\man3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="man4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\man\man4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="man5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\man\man5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="man6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\man\man6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="man7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\man\man7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="man8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\man\man8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="man9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\man\man9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pin1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\pin\pin1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pin2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\pin\pin2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pin3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\pin\pin3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pin4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\pin\pin4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pin5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\pin\pin5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pin6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\pin\pin6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pin7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\pin\pin7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pin8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\pin\pin8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pin9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\pin\pin9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="right" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\right-side-top shadow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="right_top" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\right-side-top.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="windE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\winds\wind-east.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="windN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\winds\wind-north.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="windS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\winds\wind-south.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="windW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mahjong-icons-64px-v1-martinpersson.org\winds\wind-west.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

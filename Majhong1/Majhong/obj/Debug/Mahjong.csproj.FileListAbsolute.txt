@@ -1,0 +1,65 @@
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\MAD ideas\Majhong\Majhong\obj\Debug\Mahjong.csproj.GenerateResource.Cache
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\MAD ideas\Majhong\Majhong\bin\Debug\Mahjong.exe.config
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\MAD ideas\Majhong\Majhong\bin\Debug\Mahjong.exe
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\MAD ideas\Majhong\Majhong\bin\Debug\Mahjong.pdb
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\MAD ideas\Majhong\Majhong\obj\Debug\Mahjong.Properties.Resources.resources
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\MAD ideas\Majhong\Majhong\obj\Debug\Mahjong.Test.resources
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\MAD ideas\Majhong\Majhong\obj\Debug\Mahjong.exe
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\MAD ideas\Majhong\Majhong\obj\Debug\Mahjong.pdb
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\MAD ideas\Majhong\Majhong\obj\Debug\Mahjong.csprojResolveAssemblyReference.cache
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\MAD ideas\Majhong\Majhong\obj\Debug\Mahjong.View.Controls.TileBox.resources
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\MAD ideas\Majhong\Majhong\obj\Debug\Mahjong.View.Controls.HandView.resources
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\MAD ideas\Majhong\Majhong\obj\Debug\Mahjong.View.Controls.openTilesView.resources
+C:\Users\Admin\Desktop\Majhong\Majhong\bin\Debug\Mahjong.exe.config
+C:\Users\Admin\Desktop\Majhong\Majhong\obj\Debug\Mahjong.exe
+C:\Users\Admin\Desktop\Majhong\Majhong\obj\Debug\Mahjong.pdb
+C:\Users\Admin\Desktop\Majhong\Majhong\obj\Debug\Mahjong.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Majhong\Majhong\obj\Debug\Mahjong.Form1.resources
+C:\Users\Admin\Desktop\Majhong\Majhong\obj\Debug\Mahjong.Properties.Resources.resources
+C:\Users\Admin\Desktop\Majhong\Majhong\obj\Debug\Mahjong.View.Controls.OpenTilesView.resources
+C:\Users\Admin\Desktop\Majhong\Majhong\obj\Debug\Mahjong.View.Controls.HandView.resources
+C:\Users\Admin\Desktop\Majhong\Majhong\obj\Debug\Mahjong.View.Controls.TileBox.resources
+C:\Users\Admin\Desktop\Majhong\Majhong\obj\Debug\Mahjong.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Majhong\Majhong\bin\Debug\Mahjong.exe
+C:\Users\Admin\Desktop\Majhong\Majhong\bin\Debug\Mahjong.pdb
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong\Majhong\bin\Debug\Mahjong.exe.config
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong\Majhong\obj\Debug\Mahjong.exe
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong\Majhong\obj\Debug\Mahjong.pdb
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong\Majhong\obj\Debug\Mahjong.csprojResolveAssemblyReference.cache
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong\Majhong\obj\Debug\Mahjong.Form1.resources
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong\Majhong\obj\Debug\Mahjong.Properties.Resources.resources
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong\Majhong\obj\Debug\Mahjong.View.Controls.OpenTilesView.resources
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong\Majhong\obj\Debug\Mahjong.View.Controls.HandView.resources
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong\Majhong\obj\Debug\Mahjong.View.Controls.TileBox.resources
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong\Majhong\obj\Debug\Mahjong.csproj.GenerateResource.Cache
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong\Majhong\bin\Debug\Mahjong.exe
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong\Majhong\bin\Debug\Mahjong.pdb
+C:\Users\Dark Fate\Desktop\Majhong1\Majhong\bin\Debug\Mahjong.exe.config
+C:\Users\Dark Fate\Desktop\Majhong1\Majhong\obj\Debug\Mahjong.exe
+C:\Users\Dark Fate\Desktop\Majhong1\Majhong\obj\Debug\Mahjong.pdb
+C:\Users\Dark Fate\Desktop\Majhong1\Majhong\obj\Debug\Mahjong.csprojResolveAssemblyReference.cache
+C:\Users\Dark Fate\Desktop\Majhong1\Majhong\obj\Debug\Mahjong.Form1.resources
+C:\Users\Dark Fate\Desktop\Majhong1\Majhong\obj\Debug\Mahjong.Properties.Resources.resources
+C:\Users\Dark Fate\Desktop\Majhong1\Majhong\obj\Debug\Mahjong.View.Controls.OpenTilesView.resources
+C:\Users\Dark Fate\Desktop\Majhong1\Majhong\obj\Debug\Mahjong.View.Controls.HandView.resources
+C:\Users\Dark Fate\Desktop\Majhong1\Majhong\obj\Debug\Mahjong.View.Controls.TileBox.resources
+C:\Users\Dark Fate\Desktop\Majhong1\Majhong\obj\Debug\Mahjong.csproj.GenerateResource.Cache
+C:\Users\Dark Fate\Desktop\Majhong1\Majhong\bin\Debug\Mahjong.exe
+C:\Users\Dark Fate\Desktop\Majhong1\Majhong\bin\Debug\Mahjong.pdb
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong1\Majhong\bin\Debug\Mahjong.exe.config
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong1\Majhong\obj\Debug\Mahjong.exe
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong1\Majhong\obj\Debug\Mahjong.pdb
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong1\Majhong\bin\Debug\Mahjong.exe
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong1\Majhong\bin\Debug\Mahjong.pdb
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong1\Majhong\obj\Debug\Mahjong.Form1.resources
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong1\Majhong\obj\Debug\Mahjong.Properties.Resources.resources
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong1\Majhong\obj\Debug\Mahjong.View.Controls.OpenTilesView.resources
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong1\Majhong\obj\Debug\Mahjong.View.Controls.HandView.resources
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong1\Majhong\obj\Debug\Mahjong.View.Controls.TileBox.resources
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong1\Majhong\obj\Debug\Mahjong.csproj.GenerateResource.Cache
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong1\Majhong\obj\Debug\Mahjong.Test.resources
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong1\Majhong\obj\Debug\Mahjong.csprojResolveAssemblyReference.cache
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong1\Majhong\obj\Debug\Mahjong.View.Controls.RoundData.resources
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong1\Majhong\obj\Debug\Mahjong.View.Controls.OpenHandView.resources
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong1\Majhong\obj\Debug\Mahjong.View.Controls.playerData.resources
+C:\Users\Slava\Documents\Visual Studio 2013\Projects\Majhong1\Majhong\obj\Debug\Mahjong.View.Controls.Win.resources
